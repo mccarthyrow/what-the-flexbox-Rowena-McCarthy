@@ -1,0 +1,23 @@
+{
+    "name": "mccarthyrowena",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mccarthyro/myfavorites-rowena-mccarthy.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mccarthyro/myfavorites-rowena-mccarthy/issues"
+    },
+    "homepage": "https://github.com/mccarthyro/myfavorites-rowena-mccarthy#readme",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^8.0.0"
+    }
+}
